@@ -11,21 +11,21 @@
 #### Project 2 (Passed): Cost Optimization and Monitoring
 
 > **Assessing the On-Prem Environment & Generating a Total Cost of Ownership Report**  
-> b) Azure Pricing Calculator Cost Estimates  
-> c) Azure Cost Management + Billing  
-> d) Azure Dashboards, Azure Monitor Metrics  
-> e) Azure Monitor( Log Analytics, Smart Alerts)  
-> f) Azure Insights  
-> g) Autoscale In-Out Based on Metrics
+> a) Azure Pricing Calculator Cost Estimates  
+> b) Azure Cost Management + Billing  
+> c) Azure Dashboards, Azure Monitor Metrics  
+> d) Azure Monitor( Log Analytics, Smart Alerts)  
+> e) Azure Insights  
+> f) Autoscale In-Out Based on Metrics
 
 <!-- #### Project 3 (Passed): Security
 
 > **IAM (Identity and Access Management)**
-> b) Network and Infrastructure Security
-> c) Data Security and Protection
-> d) Cloud Protection
-> e) Monitoring
-> f) Compliance -->
+> a) Network and Infrastructure Security
+> b) Data Security and Protection
+> c) Cloud Protection
+> d) Monitoring
+> e) Compliance -->
 
 ## License
 

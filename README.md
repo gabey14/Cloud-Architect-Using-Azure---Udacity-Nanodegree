@@ -2,7 +2,7 @@
 
 #### Project 1 (Passed): Designing Infrastructure and Managing Migration.
 
-> **Helping a company, go through a migration from on-premises to Azure cloud.**
+> **Helping a company, go through migration from on-premises to Azure cloud.**
 > a) Accessing On-Prem Infrastructure and Services  
 > b) Getting Cost Estimates  
 > c) Replicating Infrastructure and Services  
@@ -33,12 +33,12 @@ _PROJECT LICENSE_
 
 **_This project was submitted by Abey George as part of the Nanodegree At Udacity._**
 
-> As part of Udacity Honor code, your submissions must be your own work,  
+> As part of the Udacity Honor code, your submissions must be your work,  
 > hence submitting this project as yours may cause you to break the  
 > Udacity Honor Code and hence result in the suspension of your account.
 >
 > Me, the author of the project, allows you to check the solution as a reference,  
-> but if you submit it, it's your own responsibility if you get expelled.
+> but if you submit it, it's your responsibility if you get expelled.
 >
 > Copyright (c) 2022 Abey George
 

@@ -18,14 +18,14 @@
 > f) Azure Insights  
 > g) Autoscale In-Out Based on Metrics
 
-#### Project 3 (Passed): Security
+<!-- #### Project 3 (Passed): Security
 
 > **IAM (Identity and Access Management)**
-> b) Network and Infrastructure Security  
-> c) Data Security and Protection  
-> d) Cloud Protection  
-> e) Monitoring  
-> f) Compliance
+> b) Network and Infrastructure Security
+> c) Data Security and Protection
+> d) Cloud Protection
+> e) Monitoring
+> f) Compliance -->
 
 ## License
 

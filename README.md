@@ -20,11 +20,11 @@
 
 #### Project 3 (Passed): Security
 
-> **IAM (Identity and Access Management)**
-> a) Network and Infrastructure Security
-> b) Data Security and Protection
-> c) Cloud Protection
-> d) Monitoring
+> **IAM (Identity and Access Management)**  
+> a) Network and Infrastructure Security  
+> b) Data Security and Protection  
+> c) Cloud Protection  
+> d) Monitoring  
 > e) Compliance
 
 ## License
